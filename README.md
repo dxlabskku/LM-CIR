@@ -59,4 +59,4 @@ VLM-based critic re-ranking for composed image retrieval.
 
 The generated concise captions used in the first stage of LM-CIR are publicly available:
 - **Concise Captions:** [Google Drive](https://drive.google.com/file/d/1plCSunWzr2g_ll6K6U6hyWfUF3RVjAwH/view?usp=sharing)
-- The remaining retrieval features will be publicly released after the associated paper is accepted.
+- The remaining retrieval features will be publicly released later
