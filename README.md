@@ -57,4 +57,6 @@ VLM-based critic re-ranking for composed image retrieval.
 | Ours - Critic | **39.82** | **39.61** | **40.74** | **41.86** | **47.93** | **77.37** | **84.72** | **94.27** |
 ## Data Availability
 
-The generated concise captions and retrieval features used in this project will be publicly released after the associated paper is accepted.
+The generated concise captions used in the first stage of LM-CIR are publicly available:
+- **Concise Captions:** [Google Drive](https://drive.google.com/file/d/1plCSunWzr2g_ll6K6U6hyWfUF3RVjAwH/view?usp=sharing)
+The remaining retrieval features will be publicly released after the associated paper is accepted.
